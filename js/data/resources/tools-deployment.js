@@ -30,4 +30,12 @@ export const toolsDeploymentResources = [
     tags: ["deployment", "hosting", "static", "github"],
     url: "https://pages.github.com/",
   },
+  {
+    id: 17,
+    title: "OpenCode",
+    description: "An open-source AI coding agent that helps developers write, understand, and modify code using AI models.",
+    category: "tools-deployment",
+    tags: ["ai", "coding", "open-source"],
+    url: "https://opencode.ai/",
+  },
 ];
